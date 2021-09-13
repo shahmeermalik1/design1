@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Bebas+Neue&display=swap');
+.hero-section{
+    background-color: #1FC58E;
+
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+
+.hero-text{
+    color: white;
+    font-family: 'bebas neue', cursive;
+    font-size: 8vw;
+    letter-spacing: 1vw;
+    
+}
+.hero-text2{
+    color: #FAE62D;
+    font-family: 'Allison', cursive;
+    font-weight: 700;
+    font-size: 2vw;
+}
+.button2{
+    background-color: #FAE62D;
+    border: transparent;
+    border: 2px sloid #FAE62D;
+    color: #1FC58E;
+    margin-left: 1vw;
+    letter-spacing: 0.2vw;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: bebas neue;
+}
+.button2:hover{
+    background-color: transparent;
+    color: #FAE62D;
+    border: 2px solid #FAE62D;
+}
+.navbar{
+    background-color: #1FC58E !important;
+}
+.button1{
+    background-color: white;
+    color: #1FC58E;
+    border:2px solid white ;
+    font-family: bebas neue;
+    letter-spacing: 1vw;
+    font-weight: 700;
+    font-size: 22px;
+}
+.button1:hover{
+    color: white;
+    background-color: #1FC58E;
+    border:2px solid white ;
+}
+
+.bgsec2{
+    background-color: #1FC58E;
+    padding-bottom: 2vw;
+    padding-top: 1vw;
+    
+}
+.bgsec2 p{
+    text-align: center;
+    font-size: 2vw;
+    
+}
+.hi1{
+    background-image: url('https://images.unsplash.com/photo-1614272460808-06d0bc191504?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    height: 100%;
+    width: 100%;
+}
+
+
+.txt1{
+    font-family: bebas neue;
+    letter-spacing: 1vw;
+    color: #FAE62D;
+    font-weight: 800;
+}
+.txt2{
+    color: #FAE62D;
+    
+}
+
+
+.nav-link{
+    color: white !important;
+    
+}
+
+.n1{
+    border-bottom:#1FC58E 2px solid;
+    font-family: bebas neue;
+    font-size: 2vw;
+}
+.n2{
+    border-bottom:#1FC58E 2px solid;
+    font-family: bebas neue;
+    font-size: 2vw;
+}
+.n3{
+    border-bottom:#1FC58E 2px solid;
+    font-family: bebas neue;
+    font-size: 2vw;
+}
+.n4{
+    border-bottom:#1FC58E 2px solid;
+    font-family: bebas neue;
+    font-size: 2vw;
+}
+
+.n4:hover{
+    border-bottom-color: #FAE62D;
+    color: #FAE62D !important;
+}
+
+.n1:hover{
+    border-bottom-color: #FAE62D;
+    color: #FAE62D !important;
+}
+
+.n2:hover{
+    border-bottom-color: #FAE62D;
+    color: #FAE62D !important;
+}
+
+.n3:hover{
+    border-bottom-color: #FAE62D;
+    color: #FAE62D !important;
+}
+
+.navbar-brand{
+    color: #FAE62D !important;
+    font-family: bebas neue;
+    font-size: 3vw;
+}
+.txt3{
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: bebas neue;
+    text-align: center;
+    color: #1FC58E;
+    letter-spacing: 0.5vw;
+    border-bottom: 3px solid #FAE62D ;
+    border-top: 3px solid #FAE62D ;
+}
+
+.button11{
+    background-color: #1FC58E;
+    color: white;
+    border:2px solid white ;
+    font-family: bebas neue;
+    letter-spacing: 1vw;
+    font-weight: 700;
+    font-size: 22px;
+}
+.button11:hover{
+    color: #1FC58E;
+    background-color: white;
+    border:2px solid #1FC58E ;
+}
+
+.col9 h1{
+    font-family: bebas neue;
+    letter-spacing: 1vw;
+    color: #FAE62D;
+    border-top: #1FC58E 3px solid;
+    border-bottom: #1FC58E 3px solid;
+    font-weight: 700;
+}
+
+.col9 p {
+    letter-spacing: 0.5vw;
+    font-weight: 600;
+    font-size: 1.4rem;
+    color: #FAE62D;
+}
+
+
+
+/* <!-- #1FC58E green
+     #FAE62D yellow
+     #191414 black--> */
